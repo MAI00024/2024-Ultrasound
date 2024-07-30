@@ -75,9 +75,3 @@ chmod +x Quality_Score_Determination.sh
 * im1: 'Dead zone'
 * Im2-3: 'Axial/lateral resolution'
 * im6: 'Gray scale and dynamic range'
-=======
-# 2024-USQual
->>>>>>> 8dc317d31f70bbbd5cc0baa4f5a396435c6ba07a
-=======
-# 2024-Ultrasound
->>>>>>> 0450c735985626926f3ad87b06b6c812d524c844
