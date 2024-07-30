@@ -40,6 +40,7 @@ chmod +x Quality_Score_Determination.sh
 │   │   └── 2_Crop_region_bounding_box_for_region_crop.py
 │   └── 2_classification
 │       ├── data
+│       ├── model_weight
 │       ├── 0_preprocess_for_image_classification.py
 │       ├── 1_1-train-vgg16-classification-v2-imgsize384.py
 │       └── 1_2-infer-vgg16-classification-v2-imgsize384.py
@@ -75,3 +76,13 @@ chmod +x Quality_Score_Determination.sh
 * im1: 'Dead zone'
 * Im2-3: 'Axial/lateral resolution'
 * im6: 'Gray scale and dynamic range'
+
+## Pretrained model weight
+I share the [Google Drive link](https://drive.google.com/drive/folders/1NEAQz8TZQSkNG5wZmjTgzXi7gf28xEg4?usp=drive_link) to the pretrained model of im2-3. <br>
+
+Save to “im2-3/2_classification/model_weight” folder and run `python 1_2-infer-vgg16-classification-v2-imgsize384.py` <br>
+
+
+
+
+
