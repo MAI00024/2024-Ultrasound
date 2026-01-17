@@ -1,4 +1,8 @@
 # 2024-USQual
+## Paper
+**Deep learning-driven ultrasound equipment quality assessment with ATS-539 phantom data**
+International Journal of Medical Informatics (2025). https://doi.org/10.1016/j.ijmedinf.2024.105698
+
 ## How to run
 
 1. Provide execution permissions to the shell script files
